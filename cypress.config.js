@@ -1,7 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: "4y8o8z",
+  projectId: "your project Id",
   e2e: {
           experimentalPromptCommand : true,
           chromeWebSecurity: false,
