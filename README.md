@@ -32,7 +32,7 @@
 Before you begin, ensure you have:
 
 - ✅ Node.js (v14 or higher)
-- ✅ Cypress installed
+- ✅ Cypress installed (v 15.5.0)
 - ✅ Cypress Cloud account
 
 ```bash
